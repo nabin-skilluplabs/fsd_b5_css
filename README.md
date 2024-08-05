@@ -14,3 +14,7 @@ console.log(message);
 
 Powred By
 ![Skillup Labs](https://www.skilluplabs.com.au/skilluplabs_logo.jpg)  
+
+### Run project in local
+* Clone `.env.example` to `.env`
+* Add values to environment variables
